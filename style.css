@@ -1,0 +1,30 @@
+#icon8{
+    background: maroon;
+    color: lightcoral;
+    width: 100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+body{
+    background: pink;
+}
+#icon5{
+    color: rebeccapurple;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    background-color:wheat;
+}
+#icon7{
+    border: 400px;
+    border-radius: 200px;
+    float: left;
+    width: 200px;
+    height: 200px;
+}
+p.icon{
+    background: rgb(59, 55, 55);
+    color: rgb(206, 191, 191);
+    font-size: large;
+    margin: 10px;
+    padding: 10px;
+}
